@@ -1,4 +1,4 @@
-## About
+# Add to cart animation
 A beautiful add to cart animation.
 ## Example
 ```
